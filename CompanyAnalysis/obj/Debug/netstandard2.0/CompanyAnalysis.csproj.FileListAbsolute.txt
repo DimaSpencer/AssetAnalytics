@@ -1,0 +1,4 @@
+C:\Users\Дима\source\repos\CryptoMetrics\CompanyAnalysis\obj\Debug\netstandard2.0\CompanyAnalysis.csprojAssemblyReference.cache
+C:\Users\Дима\source\repos\CryptoMetrics\CompanyAnalysis\obj\Debug\netstandard2.0\CompanyAnalysis.AssemblyInfoInputs.cache
+C:\Users\Дима\source\repos\CryptoMetrics\CompanyAnalysis\obj\Debug\netstandard2.0\CompanyAnalysis.AssemblyInfo.cs
+C:\Users\Дима\source\repos\CryptoMetrics\CompanyAnalysis\obj\Debug\netstandard2.0\CompanyAnalysis.csproj.CoreCompileInputs.cache
